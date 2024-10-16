@@ -10,7 +10,7 @@ Lifelong Learner, Lifelong Learner, currently an informatics engineering student
 
 ### <summary><strong>Yosh!</strong></summary>
 <p>
-    - :keyboard: I’m currently learning Data Analytics. </br>
+    - :keyboard: I'm currently studying Mobile Developer and Web developer. </br>
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:vfebyan@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: He/His </br>
@@ -19,14 +19,14 @@ Lifelong Learner, Lifelong Learner, currently an informatics engineering student
  
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://x.com/paleennnn">
-  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/x/495f7e" />
 </a>
 <a href="https://www.instagram.com/valeennszz/">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+  <img align="left" alt="Paleennnn Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
 <a href="https://medium.com/@bioganteng04">
-  <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/medium/495f7e" />
+  <img align="left" alt="Paleennnn Medium" width="20px" src="https://simpleicons.now.sh/medium/495f7e" />
 </a>
 <a href="https://linkedin.com/in/febyanvalentino">
-  <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+  <img align="left" alt="Paleennnn Linkedin" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
