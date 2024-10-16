@@ -3,6 +3,11 @@ Lifelong Learner, Lifelong Learner, currently an informatics engineering student
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
+## Activity
+Currently learning : <br/>
+<img src="https://github.com/gilbarbara/logos/blob/main/logos/nextjs-icon.svg" width="64" height="64"> ![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg) <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/23484f41d6852846e74f65320691203644291341/icons/file_type_light_prisma.svg" width="64" height="64"> ![Nodejs](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg) ![AdonisJS](https://www.vectorlogo.zone/logos/adonisjs/adonisjs-icon.svg) ![postgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg) ![postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) 
+<br/>
+
 ### <summary><strong>Tools:</strong></summary>
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
