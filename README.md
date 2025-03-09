@@ -8,11 +8,6 @@ Currently learning : <br/> <img src="https://github.com/gilbarbara/logos/blob/ma
 <br/>
 
 
-### <summary><strong>Tools:</strong></summary>
-<p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-</p>
-
 ### <summary><strong>Yosh!</strong></summary>
 <p>
     - :keyboard: I'm currently studying Mobile Developer and Web developer. </br>
