@@ -28,5 +28,5 @@ Currently learning : <br/> <img src="https://github.com/gilbarbara/logos/blob/ma
   <img align="left" alt="Paleennnn Medium" width="20px" src="https://simpleicons.now.sh/medium/495f7e" />
 </a>
 <a href="https://linkedin.com/in/febyanvalentino">
-  <img align="left" alt="Paleennnn Linkedin" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+  <img align="left" alt="Paleennnn Linkedin" width="20px" src="https://simpleicons.now.sh/linkerd/495f7e" />
 </a>
