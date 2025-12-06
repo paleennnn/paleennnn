@@ -1,5 +1,5 @@
 # <summary><strong>Hi there :wave: , I'm Palennnn!</strong></summary>
-Lifelong Learner, Lifelong Learner, currently an informatics engineering student at the Surabaya State Electronics Polytechnic.
+Lifelong Learner, currently an informatics engineering student at the Surabaya State Electronics Polytechnic.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
