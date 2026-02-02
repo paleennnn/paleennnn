@@ -51,12 +51,12 @@ I'm an Associate Degree graduate in **Informatics Engineering** from Politeknik 
 ### Guidance and Counseling Information System
 A comprehensive web-based system for managing school counseling services
 - **Features**: Attendance tracking, private chat counseling, violation & achievement tracking
-- **Tech Stack**: Yii2 Framework, MySQL, PHP
+- **Tech Stack**: PHP, Laravel, Tailwind CSS, MySQL
 - **Role**: Full-stack Developer
 ### Business Management Information System at Marcopollo Group
 Web-based management system for managing business
 - **Features**: Transaction, Sales Tracking, recording
-- **Tech Stack**: Next.Js, Adonis.Js, PostgreSQL, Typescript
+- **Tech Stack**: Typescript, Tilwind CSS, Next.Js, Adonis.Js, PostgreSQL
 - **Role**: Full-stack Developer
 
 ## Professional Certifications
