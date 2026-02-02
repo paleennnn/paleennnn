@@ -38,20 +38,25 @@ I'm an Associate Degree graduate in **Informatics Engineering** from Politeknik 
 ### Mobile Development
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ### Database & Tools
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ## Featured Projects
 
-### 🎓 Guidance and Counseling Information System
+### Guidance and Counseling Information System
 A comprehensive web-based system for managing school counseling services
 - **Features**: Attendance tracking, private chat counseling, violation & achievement tracking
 - **Tech Stack**: Yii2 Framework, MySQL, PHP
+- **Role**: Full-stack Developer
+### Business Management Information System at Marcopollo Group
+Web-based management system for managing business
+- **Features**: Transaction, Sales Tracking, recording
+- **Tech Stack**: Next.Js, Adonis.Js, PostgreSQL, Typescript
 - **Role**: Full-stack Developer
 
 ## Professional Certifications
