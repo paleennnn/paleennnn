@@ -108,7 +108,3 @@ Professional Competency Certification by SMKN 1 Jenangan & PT Promedia Citra Inf
 <p align="center">
   <i>💡 "Continuously learning and adapting to new technologies to build better solutions"</i>
 </p>
-
-<p align="center">
-  <i>⚡ Fun fact: Drawing and writing are part of me!</i>
-</p>
